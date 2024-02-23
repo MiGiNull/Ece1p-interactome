@@ -1,4 +1,4 @@
-# Network and Functional Analysis of Ece1p-Human Interactome for Novel Target Identification
+# Network and Functional Analysis of Ece1p-Human Interactome for Target Identification
 ## Code for Visualization and analysis of Ece1p(*C. albicans*)-Human interactome.  
 The analysis code can be found in the `Code/` folder.  
 1. Number of interacting host genes of each peptide.py  
@@ -7,9 +7,9 @@ The analysis code can be found in the `Code/` folder.
 4. bar-overlap.R  
 5. upset-gene.R
 6. bar-GOenrichment.R  
-7.  bar-GOenrichment-metascape.R  
+7. bar-GOenrichment-metascape.R  
 
-Bioinformatics analysis in paper "Global fungal-host interactome mapping identifies a novel target 
-of Candidalysin for fungal infection" were implemented by code above.
+Bioinformatics analysis in paper "Global fungal-host interactome mapping identifies targets 
+of candidalysin" were implemented by code above.
 ## Screening results of HT-eY2H
 The 2nd screening results of HT-eY2H can be found in `Final list of genes for all peptides.xlsx`.
